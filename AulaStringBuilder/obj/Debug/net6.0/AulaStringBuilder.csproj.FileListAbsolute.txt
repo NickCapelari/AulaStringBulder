@@ -1,0 +1,15 @@
+D:\Curso.Net\AulaStringBuilder\AulaStringBuilder\bin\Debug\net6.0\AulaStringBuilder.exe
+D:\Curso.Net\AulaStringBuilder\AulaStringBuilder\bin\Debug\net6.0\AulaStringBuilder.deps.json
+D:\Curso.Net\AulaStringBuilder\AulaStringBuilder\bin\Debug\net6.0\AulaStringBuilder.runtimeconfig.json
+D:\Curso.Net\AulaStringBuilder\AulaStringBuilder\bin\Debug\net6.0\AulaStringBuilder.dll
+D:\Curso.Net\AulaStringBuilder\AulaStringBuilder\bin\Debug\net6.0\ref\AulaStringBuilder.dll
+D:\Curso.Net\AulaStringBuilder\AulaStringBuilder\bin\Debug\net6.0\AulaStringBuilder.pdb
+D:\Curso.Net\AulaStringBuilder\AulaStringBuilder\obj\Debug\net6.0\AulaStringBuilder.csproj.AssemblyReference.cache
+D:\Curso.Net\AulaStringBuilder\AulaStringBuilder\obj\Debug\net6.0\AulaStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso.Net\AulaStringBuilder\AulaStringBuilder\obj\Debug\net6.0\AulaStringBuilder.AssemblyInfoInputs.cache
+D:\Curso.Net\AulaStringBuilder\AulaStringBuilder\obj\Debug\net6.0\AulaStringBuilder.AssemblyInfo.cs
+D:\Curso.Net\AulaStringBuilder\AulaStringBuilder\obj\Debug\net6.0\AulaStringBuilder.csproj.CoreCompileInputs.cache
+D:\Curso.Net\AulaStringBuilder\AulaStringBuilder\obj\Debug\net6.0\AulaStringBuilder.dll
+D:\Curso.Net\AulaStringBuilder\AulaStringBuilder\obj\Debug\net6.0\ref\AulaStringBuilder.dll
+D:\Curso.Net\AulaStringBuilder\AulaStringBuilder\obj\Debug\net6.0\AulaStringBuilder.pdb
+D:\Curso.Net\AulaStringBuilder\AulaStringBuilder\obj\Debug\net6.0\AulaStringBuilder.genruntimeconfig.cache
